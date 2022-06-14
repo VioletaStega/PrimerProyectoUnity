@@ -322,7 +322,7 @@ public class Conditionals : MonoBehaviour
             }
         }
 
-        Debug.Log("Numbers from major to minor:\n" + smallerNumber + " \n " + mediumNumber 
+        Debug.Log("Numbers from minor to major:\n" + smallerNumber + " \n " + mediumNumber 
                   + " \n " + biggerNumber);
     }
 
